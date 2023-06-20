@@ -1,0 +1,10 @@
+best_weight/*
+cache/*
+cache_eval/*
+finetuned_data/*
+processed_data/*
+output/*
+trigger_candidates/*
+data_processing.ipynb
+preprocessing/Dataset/*
+*.pyc
