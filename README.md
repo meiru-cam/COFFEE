@@ -75,6 +75,20 @@ You can modify the arguments in the config file or replace the config file with 
 ### Generate arguments based on the selected trigger prediction and evaluate with F1-score on test set
 - Run `./scripts/post_ranker.sh`. Generate the final predictions and evaluate using the F1-scores.
 
+## To cite
+```
+@misc{zhang2023coffee,
+      title={COFFEE: A Contrastive Oracle-Free Framework for Event Extraction}, 
+      author={Meiru Zhang and Yixuan Su and Zaiqiao Meng and Zihao Fu and Nigel Collier},
+      year={2023},
+      eprint={2303.14452},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 ## Acknowledgments
 
 This code is based on the work done by [Kuan-Hao Huang et. al ](https://github.com/PlusLabNLP/X-Gear)
+
+
