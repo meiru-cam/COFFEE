@@ -1,3 +1,9 @@
+# <div align="center">COFFEE: A Contrastive Oracle-Free Framework for Event Extraction<div>
+
+<div align="center">
+<a href="https://arxiv.org/abs/2303.14452" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue"></a>
+</div>
 
 
 ### Setup
