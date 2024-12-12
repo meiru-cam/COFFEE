@@ -5,6 +5,10 @@
 <a><img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue"></a>
 </div>
 
+<p align="center">
+<img src="assets/main_figure.png">
+</p>
+
 
 ### Setup
 
